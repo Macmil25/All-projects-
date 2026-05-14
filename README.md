@@ -1,6 +1,6 @@
- # Hello, My name is Natalie Mugoni
+# Hello, My Name is Natalie Mugoni
 
-![Tanjiro Animation](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaWRvempuZm91MTN4d3hmN2RvYndxdGZwa2k3MXg0aWh2b2V6dXhpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lsUWq3SQ3NLYusKJ4O/giphy.gif)
+![Tanjiro Animation](https://i.giphy.com/media/v1.Y2lkPTZjMDliOTUyaWRvempuZm91MTN4d3hmN2RvYndxdGZwa2k3MXg0aWh2b2V6dXhpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lsUWq3SQ3NLYusKJ4O/giphy.gif)
 
 ## About Me
 I am a university student passionate about the continuous cycle of learning and unlearning. I enjoy exploring how complex systems work, whether they are built with code, data, or logic. My academic journey is driven by curiosity and a commitment to mastering modern technology to solve real-world problems.
