@@ -1,42 +1,28 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+ # Hello, My name is Natalie Mugoni
 
-# 🌙 Hello world, I'm Natalie Mugoni
+![Tanjiro Animation](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaWRvempuZm91MTN4d3hmN2RvYndxdGZwa2k3MXg0aWh2b2V6dXhpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lsUWq3SQ3NLYusKJ4O/giphy.gif)
 
-<p align="center">
-  <img src="watermarked_img_10134964876822534108.png" width="800" alt="Tanjiro Animation">
-</p>
+## About Me
+I am a university student passionate about the continuous cycle of learning and unlearning. I enjoy exploring how complex systems work, whether they are built with code, data, or logic. My academic journey is driven by curiosity and a commitment to mastering modern technology to solve real-world problems.
 
-### ✨ About Me
-I am a university student navigating the vast and beautiful world of **Data Science and Systems**. For me, tech isn't just about writing code; it's a lifelong journey of curiosity. I am deeply invested in the process of **learning and unlearning**—stripping away old perspectives to make room for fresh, innovative ways of solving problems. Whether it's architecting a database or teaching an AI to think, I approach every challenge with an open heart and a drive to grow.
+## Technical Highlights: Harvard CS50 AI
+I have successfully completed twelve specialized projects as part of Harvard's CS50 Introduction to Artificial Intelligence with Python. These projects involved implementing the foundational algorithms that power modern AI.
 
----
+### Projects Overview
+The work covered a broad spectrum of AI disciplines, including:
 
-### 🧠 Harvard CS50 Artificial Intelligence Projects
-Here is a collection of 12 foundational AI projects I completed, exploring everything from logic to neural networks.
+*   **Search:** Implementing **Minimax** for adversarial game playing and solving puzzles using various search strategies.
+*   **Knowledge:** Utilizing **Propositional Logic** and inference engines to solve logical puzzles.
+*   **Uncertainty:** Building **Bayesian Networks** and **Markov Models** to calculate probabilities and predict outcomes.
+*   **Optimization:** Solving complex scheduling and constraint satisfaction problems.
+*   **Learning:** Developing **Reinforcement Learning** agents and building **Neural Networks** with TensorFlow to classify images and data.
+*   **Language:** Exploring **Natural Language Processing (NLP)** through syntax parsing and information retrieval.
 
-1.  **Degrees**: A search algorithm to find the shortest path between two actors through movie connections (Breadth-First Search).
-2.  **Tic-Tac-Toe**: Implementing an AI that plays optimally using the **Minimax algorithm** so it never loses.
-3.  **Knights**: A program that solves logic puzzles using propositional logic and inference.
-4.  **Minesweeper**: An AI agent that uses knowledge representation to play and win Minesweeper by making logical deductions.
-5.  **Pagerank**: Implementing Google's original ranking algorithm using both Random Surfer and Iterative models.
-6.  **Heredity**: A model that uses Bayesian Networks to calculate the probability of genetic traits being passed through generations.
-7.  **Crossword**: A constraint satisfaction problem solver that automatically fits words into a crossword grid.
-8.  **Shopping**: A machine learning model (k-Nearest Neighbors) that predicts whether online shoppers will complete a purchase.
-9.  **Nim**: Using Reinforcement Learning to teach an AI how to play the game of Nim perfectly through trial and error.
-10. **Parser**: A natural language processing tool that parses sentences to determine their structure and extract noun phrases.
-11. **Crossword**: (Advanced) Solving complex grid layouts using backtracking search and arc consistency.
-12. **Traffic**: A **Neural Network** built with TensorFlow to identify various road signs from images with high accuracy.
+## Skills & Tools
+*   **Languages:** Python, SQL
+*   **Frameworks:** Flask, TensorFlow
+*   **Databases:** MySQL
+*   **Concepts:** Relational Database Design (ER Modeling), Machine Learning, Probability Theory
 
 ---
-
-### 🛠️ Technical Toolkit
-*   **Programming**: Python (3.12)
-*   **Databases**: MySQL
-*   **Web**: Flask
-*   **AI/ML**: TensorFlow, Scikit-learn, Probability Theory 
-
-
-
-“The heart is the engine that drives us.” — Tanjiro Kamado*
+*“Always learning, always evolving.”*
