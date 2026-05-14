@@ -1,63 +1,62 @@
-<h1 align="center">Hi, I'm Natalie Mugoni 👋</h1>
+<div align="center">
+  <!-- Tanjiro Water Breathing Animation -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1z/V8S7TId6Id0N3p9JIk/giphy.gif" width="250px">
 
-<p align="center">
-  <strong>University Student | AI Enthusiast | Database Developer</strong><br>
-  Focused on Python 3.12, MySQL, and Machine Learning.
-</p>
+  <h1>Hi, I'm Natalie Mugoni 🌊</h1>
+  <p><b>Computer Science Student | AI & Database Enthusiast</b></p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/MySQL-Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Flask-Framework-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
-</p>
-
----
-
-### 🤖 Harvard CS50 AI | 12-Project Portfolio
-<p>I have successfully implemented 12 intensive AI projects covering search, probability, and neural networks using Python 3.12.</p>
-
-<table width="100%">
-  <tr>
-    <th align="left">Category</th>
-    <th align="left">Projects</th>
-  </tr>
-  <tr>
-    <td><strong>Search & Logic</strong></td>
-    <td>Degrees, Tic-Tac-Toe (Minimax), Knights, Minesweeper</td>
-  </tr>
-  <tr>
-    <td><strong>Uncertainty</strong></td>
-    <td>PageRank (Markov Chains), Heredity, Crossword (CSP)</td>
-  </tr>
-  <tr>
-    <td><strong>Machine Learning</strong></td>
-    <td>Shopping (k-NN), Nim (Q-Learning), Traffic (CNN/TensorFlow)</td>
-  </tr>
-  <tr>
-    <td><strong>Language Processing</strong></td>
-    <td>Parser (CFG), Questions (TF-IDF)</td>
-  </tr>
-</table>
+  <!-- Professional Badges -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/CS50AI-Passed-red?style=for-the-badge&logo=harvard" />
+</div>
 
 ---
 
-### 💻 Technical Expertise
-<ul>
-  <li><strong>Core Development:</strong> Relational Database Design (ER/EER Modeling), Crow’s Foot Notation, and Live Web Integration.</li>
-  <li><strong>Tools & Libraries:</strong> TensorFlow, Scikit-learn, Git, yfinance (Market Data Analysis).</li>
-  <li><strong>Featured Systems:</strong> Metro Sports League Portal, Personal Finance Manager, and University Library Systems.</li>
-</ul>
+### 🌊 Harvard CS50AI: The Twelve Techniques
+*A collection of 12 Artificial Intelligence projects implemented in Python. All source code is located in the `main` branch.*
+
+| Category | Project | Key AI Concept |
+| :--- | :--- | :--- |
+| **Search** | [Degrees](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/tree/main/degrees) | Breadth-First Search |
+| **Search** | [Tic-Tac-Toe](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/tree/main/tictactoe) | Minimax & Alpha-Beta Pruning |
+| **Knowledge** | [Knights](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/tree/main/knights) | Propositional Logic |
+| **Knowledge** | [Minesweeper](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/tree/main/minesweeper) | Inference Engines |
+| **Uncertainty** | [PageRank](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/tree/main/pagerank) | Markov Models |
+| **Uncertainty** | [Heredity](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/tree/main/heredity) | Bayesian Networks |
+| **Optimization** | [Crossword](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/tree/main/crossword) | Constraint Satisfaction |
+| **Learning** | [Shopping](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/tree/main/shopping) | K-Nearest Neighbors |
+| **Learning** | [Nim](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/tree/main/nim) | Reinforcement Learning |
+| **Neural Nets** | [Traffic](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/tree/main/traffic) | Computer Vision (CNN) |
+| **Language** | [Parser](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/tree/main/parser) | Natural Language Processing |
+| **Language** | [Attention](https://github.com/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/tree/main/attention) | Transformer Models |
 
 ---
 
-### 📫 Let's Connect
-<p align="left">
-<a href="mailto:nataliemugoni15@gmail.com"><img src="https://img.shields.io/badge/Email-nataliemugoni15%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" height="25" /></a>
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="25" /></a>
-</p>
+### 🛠️ Technical Breath
+<details>
+<summary><b>Click to expand my Toolset</b></summary>
+<br>
 
-<br />
+- **Languages:** Python (3.12), SQL (MySQL), HTML/CSS
+- **Frameworks:** Flask, TensorFlow, Keras
+- **Concepts:** Relational Database Design (ER Modeling), Markov Properties, Optimization Algorithms
+</details>
 
-<p align="center">
-  <em>Currently seeking professional attachment opportunities to apply AI and Database solutions in industry.</em>
-</p>
+---
+
+### 📊 GitHub Activity
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=bright&hide_border=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=bright&hide_border=true" width="48%">
+</div>
+
+---
+
+<div align="center">
+  <p><i>"Set your heart ablaze."</i></p>
+  <a href="https://linkedin.com/in/natalie-mugoni">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white">
+  </a>
+</div>
