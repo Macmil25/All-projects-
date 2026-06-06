@@ -1,14 +1,14 @@
-# Hi there, I'm Natalie Mugoni 👋
+# Hi there, I'm Natalie Mugoni 
 
 ---
 
-## 🙋‍♀️ About Me
+##  About Me
 
 I am a university student passionate about the continuous cycle of learning and unlearning. I enjoy exploring how complex systems work , whether built with code, data, or logic. My academic journey is driven by curiosity and a commitment to mastering modern technology to solve real-world problems.
 
 - 🎓 BSc Honours in Data Science & Systems — University of Zimbabwe
-- 🌍 Based in Harare, Zimbabwe
-- 🔍 Currently seeking an industrial attachment in Data Science / Data Analytics
+- 🌍 Based in Harare -Kuwadzana 1
+- 🔍 Currently seeking an industrial attachment in Data Science and Systems.
 
 ---
 
